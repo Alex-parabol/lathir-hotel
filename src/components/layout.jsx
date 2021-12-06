@@ -9,7 +9,7 @@ const Layout = (props)=> {
       <Global
         styles={css`
         html{
-          font-size: 62.5%M
+          font-size: 62.5%;
         }
           body{
             font-size: 16px;
