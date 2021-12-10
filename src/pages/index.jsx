@@ -3,7 +3,7 @@ import Layout from "../components/layout"
 
 const IndexPage = () => (
     <Layout>
-        <h1>Lathir Hotel</h1>
+        <h1>Home</h1>
     </Layout>
   
 )
